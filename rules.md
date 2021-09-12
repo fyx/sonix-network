@@ -1,3 +1,7 @@
+---
+title: Rules
+---
+
 Version: 1.0
 
 # General requirements
