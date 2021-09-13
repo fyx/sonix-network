@@ -1,0 +1,15 @@
+- tier_name: Founders
+  size: large
+  description: |-
+    This is the description for the Founders
+  sponsors:
+    - name: Viktor Ekmark
+      profile: https://github.com/
+    - name: Christian Svensson
+      profile: https://github.com/
+- tier_name: Platinum Sponsors
+  description: |-
+    This is the description for the Platinum Tier
+  sponsors:
+    - name: ELASTX
+      profile: https://github.com/
