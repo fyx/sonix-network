@@ -5,3 +5,4 @@ subtitle: An example sponsors page
 sponsors: sponsors
 show_sidebar: false
 ---
+Test
